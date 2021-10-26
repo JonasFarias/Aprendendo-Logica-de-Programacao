@@ -38,14 +38,16 @@ Costuma-se definir esse processo como processamento de informações.
 
 Inteiro -Para informar ao computador o número de pessoas que existem em uma sala, pode-se informar 50 pessoas, por exemplo, e este é um caso típico em que podemos informar apenas um número inteiro. Não poderiam existir o número cinquenta pessoas e meia, 50.5, não é verdade?
 
+------------------------------------------------------------------------------------------------------
+````
 
 	  INTEIROS (130, 0, -18 Etc) Numeros que não tenham pontos flutuantes
 	/
 Números 
 	\
 	  REAL (4.5, 9,9 etc) Numeros reais, são fracionados
-	
-
+````
+------------------------------------------------------------------------------------------------------
 
 Real - Esses números podem ter uma parte decimal, como por exemplo, a altura de uma pessoa: 1.77 m.
 
