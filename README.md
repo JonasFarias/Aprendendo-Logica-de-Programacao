@@ -1,3 +1,83 @@
+
+
+CONCEITOS E PRINCÍPIOS DA LÓGICA DE PROGRAMAÇÃO
+
+
+Antes de iniciarmos a programação, precisamos entender o que é lógica.
+
+
+Devemos considerar o seguinte fluxo da área de TI:
+
+ENTRADA —--> PROCESSAMENTO —-> SAÍDA
+
+Onde:
+ENTRADA: Entrada de dados
+PROCESSAMENTO: Processar dados para resolver o problema.
+SAÍDA: Dados processados
+
+
+
+
+ALGORITMO
+
+É uma sequência de instruções ordenadas de forma lógica para a resolução de um determinado problema.
+Para desenvolvermos um algoritmo, basta utilizar uma língua, como o português, conhecido também como português estruturado ou pseudo-linguagem.
+
+
+Utilizar frases com apenas um verbo.
+Utilizar frases simples e curtas.
+Utilizar palavras sem sentido dúbio.
+Ser objetivo.
+
+LINGUAGEM DE PROGRAMAÇÃO
+
+Algoritmos escritos em códigos para instruir o computador. Após compilado, gera o programa de computador.
+Logo, um PROGRAMA DE COMPUTADOR é um conjunto de instruções em uma sequência lógica para resolver um problema ou realizar uma determinada tarefa.
+
+
+
+
+
+
+
+
+
+
+
+OPERADORES ARITMÉTICOS:
+
+
++  (soma)
+
+-   (subtração)
+ 
+*   (multiplicação)
+
+/   (divisão)
+
+OPERADORES RELACIONAIS:
+
+>   (maior que)
+
+<   (menor que)
+
+>=  (maior ou igual)
+
+<=  (menor ou igual)
+
+=    (igual)
+
+!=  (diferente)
+
+
+OPERADORES LÓGICOS:
+
+E (AND): Retorna verdadeiro se ambas ou mais expressões forem verdadeiras
+
+OU (OR): Retorna verdadeiro se uma das expressões forem verdadeiras
+
+NÃO (NOT): Inverte a expressão se verdadeira passa para falso e vice-versa.
+
 FUNDAMENTOS
 
 PRA QUE SABER PROGRAMAR?
